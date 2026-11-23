@@ -1,5 +1,25 @@
-doc1	le chat dort dans la maison
-doc2	la maison est grande et belle
-doc3	le chien court dans le jardin
-doc4	belle maison avec jardin et terrasse
-doc5	le chat joue dans le jardin avec le chien
+D01	Information retrieval systems use inverted indexes for efficient search
+D02	The vector space model represents documents and queries as vectors
+D03	Boolean retrieval uses AND OR and NOT operators to find matching documents
+D04	TF IDF measures the importance of terms in documents for information retrieval
+D05	Search engines rank documents according to their relevance to a user query
+D06	BM25 is a ranking function used in information retrieval systems
+D07	Neural information retrieval uses deep learning models to improve search
+D08	Dense retrieval represents queries and documents using embeddings
+D09	Vector databases support similarity search over document embeddings
+D10	Search engines use inverted indexes to retrieve documents efficiently
+D11	An inverted index maps each term to the documents that contain the term
+D12	Term frequency measures how often a word appears inside one document
+D13	Document frequency counts the number of documents containing a specific term
+D14	Inverse document frequency gives more importance to rare terms in a collection
+D15	TF IDF combines term frequency and inverse document frequency for document ranking
+D16	Modern search models compare query and document representations to estimate relevance
+D17	Language models can understand the meaning of a search query and its context
+D18	Dense retrieval models encode queries and documents into numerical embeddings
+D19	Sparse retrieval methods use term matching and inverted indexes for search
+D20	Cosine similarity compares two vectors by measuring the angle between them
+D21	A vector space model represents each document with weighted terms
+D22	Boolean retrieval returns documents that satisfy AND OR and NOT conditions
+D23	Ranking algorithms order search results from the most relevant to the least relevant
+D24	Information retrieval evaluates search systems using precision recall and ranking metrics
+D25	Query expansion adds related terms to improve information retrieval results								
